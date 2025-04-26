@@ -5,7 +5,6 @@ Proceso de construcción de una aplicación docker con compose y mysql, que mues
 ## Complementos
 
 - [Documento](https://drive.google.com/file/d/1Afv2_D-o09hdQxmbH6vhn-_NvSRtnAZr/view?usp=sharing)
-- Video (Adjunto en el correo)
 
 ## Estudiante
 
